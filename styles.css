@@ -1,0 +1,33 @@
+body {
+    background-image: url('shutterstock_1927682870-400x300.jpg.webp');
+}
+
+main {
+    background-color: rgb(159, 224, 199);
+    top: 50%;
+    border-radius: 50px;
+    border-style: dotted;
+    -webkit-box-shadow: 0px 7px 15px 5px #000000; 
+    box-shadow: 0px 25px 15px 5px #000000;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+#text {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-large;
+    text-align: center;
+   }
+
+#author {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.center {
+    text-align: center;
+    font-size: large;
+}
